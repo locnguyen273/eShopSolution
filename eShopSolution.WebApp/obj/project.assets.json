@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Training\\New folder\\eShopSolution\\eShopSolution.WebApp\\eShopSolution.WebApp.csproj",
+      "projectUniqueName": "D:\\Training\\New folder\\eShopSolution.WebApp\\eShopSolution.WebApp.csproj",
       "projectName": "eShopSolution.WebApp",
-      "projectPath": "D:\\Training\\New folder\\eShopSolution\\eShopSolution.WebApp\\eShopSolution.WebApp.csproj",
+      "projectPath": "D:\\Training\\New folder\\eShopSolution.WebApp\\eShopSolution.WebApp.csproj",
       "packagesPath": "C:\\Users\\tanlo\\.nuget\\packages\\",
-      "outputPath": "D:\\Training\\New folder\\eShopSolution\\eShopSolution.WebApp\\obj\\",
+      "outputPath": "D:\\Training\\New folder\\eShopSolution.WebApp\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\tanlo\\AppData\\Roaming\\NuGet\\NuGet.Config",
