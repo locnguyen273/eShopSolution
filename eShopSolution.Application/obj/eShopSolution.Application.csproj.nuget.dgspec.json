@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Training\\New folder\\eShopSolution.Application\\eShopSolution.Application.csproj": {}
+    "D:\\Training\\eShopSolution\\eShopSolution.Application\\eShopSolution.Application.csproj": {}
   },
   "projects": {
-    "D:\\Training\\New folder\\eShopSolution.Application\\eShopSolution.Application.csproj": {
+    "D:\\Training\\eShopSolution\\eShopSolution.Application\\eShopSolution.Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Training\\New folder\\eShopSolution.Application\\eShopSolution.Application.csproj",
+        "projectUniqueName": "D:\\Training\\eShopSolution\\eShopSolution.Application\\eShopSolution.Application.csproj",
         "projectName": "eShopSolution.Application",
-        "projectPath": "D:\\Training\\New folder\\eShopSolution.Application\\eShopSolution.Application.csproj",
+        "projectPath": "D:\\Training\\eShopSolution\\eShopSolution.Application\\eShopSolution.Application.csproj",
         "packagesPath": "C:\\Users\\tanlo\\.nuget\\packages\\",
-        "outputPath": "D:\\Training\\New folder\\eShopSolution.Application\\obj\\",
+        "outputPath": "D:\\Training\\eShopSolution\\eShopSolution.Application\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\tanlo\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -55,7 +55,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.200\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
         }
       }
     }
