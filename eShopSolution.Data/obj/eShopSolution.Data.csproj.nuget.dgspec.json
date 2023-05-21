@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Training\\New folder\\eShopSolution.Data\\eShopSolution.Data.csproj": {}
+    "D:\\Training\\eShopSolution\\eShopSolution.Data\\eShopSolution.Data.csproj": {}
   },
   "projects": {
-    "D:\\Training\\New folder\\eShopSolution.Data\\eShopSolution.Data.csproj": {
+    "D:\\Training\\eShopSolution\\eShopSolution.Data\\eShopSolution.Data.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Training\\New folder\\eShopSolution.Data\\eShopSolution.Data.csproj",
+        "projectUniqueName": "D:\\Training\\eShopSolution\\eShopSolution.Data\\eShopSolution.Data.csproj",
         "projectName": "eShopSolution.Data",
-        "projectPath": "D:\\Training\\New folder\\eShopSolution.Data\\eShopSolution.Data.csproj",
+        "projectPath": "D:\\Training\\eShopSolution\\eShopSolution.Data\\eShopSolution.Data.csproj",
         "packagesPath": "C:\\Users\\tanlo\\.nuget\\packages\\",
-        "outputPath": "D:\\Training\\New folder\\eShopSolution.Data\\obj\\",
+        "outputPath": "D:\\Training\\eShopSolution\\eShopSolution.Data\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\tanlo\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -39,6 +39,24 @@
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[7.0.5, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[7.0.5, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[7.0.5, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
@@ -55,7 +73,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.200\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
         }
       }
     }

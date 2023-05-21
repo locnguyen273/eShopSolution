@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "GkxiYB73ORlvg0CgYgzy+HGabfgM/kdJcFTDOx7WmS311LStrrpx4zkuzvjY+0NnyYtPtkHLu8mmj2zxuaEk9g==",
+  "dgSpecHash": "e8cXyd3xOMtYjcefH1Bbxf6eBZ1srPiwwrErlx26GX8BoZ3tqfjCxVclW0LZw2OV3YTw9qnW5x1L6yZ3OmCwLA==",
   "success": true,
-  "projectFilePath": "D:\\Training\\New folder\\eShopSolution.Application\\eShopSolution.Application.csproj",
+  "projectFilePath": "D:\\Training\\eShopSolution\\eShopSolution.Application\\eShopSolution.Application.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
